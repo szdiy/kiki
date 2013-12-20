@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Hackerspace SYSTEM "tree2.dtd">
+<szdiy>
+  <hacker>
+    <property key="RFID">00000000</property>
+    <property key="name">SZDIYer</property>
+    <property key="profession">Hacker</property>
+    <property key="momentum">@@</property>
+    <property key="email">hacker@nirvana</property>
+    <property key="MAC">00:11:22:33:44:55</property>
+  </hacker>
+  <hacker>
+    <property key="RFID">anders</property>
+    <property key="name">anders</property>
+    <property key="profession"/>
+    <property key="momentum"/>
+    <property key="email"/>
+    <property key="MAC"/>
+  </hacker>
+  <hacker>
+    <property key="RFID">sdfsf</property>
+    <property key="name">sdfsf</property>
+    <property key="profession">sdfsfs</property>
+    <property key="momentum">sdfsf</property>
+    <property key="email">sdfsf</property>
+    <property key="MAC">sdfsfs</property>
+  </hacker>
+  <hacker>
+    <property key="RFID">SZDIYer</property>
+    <property key="name">SZDIYer</property>
+    <property key="profession">Hacker</property>
+    <property key="momentum">@@</property>
+    <property key="email"/>
+    <property key="MAC"/>
+  </hacker>
+  <hacker>
+    <property key="RFID">5EC844F501</property>
+    <property key="name">Anders</property>
+    <property key="profession"/>
+    <property key="momentum"/>
+    <property key="email"/>
+    <property key="MAC"/>
+  </hacker>
+  <hacker>
+    <property key="RFID">cef446f5af</property>
+    <property key="name">Danfei</property>
+    <property key="profession">Teacher</property>
+    <property key="momentum">@@</property>
+    <property key="email">@@</property>
+    <property key="MAC">@@</property>
+  </hacker>
+</szdiy>
